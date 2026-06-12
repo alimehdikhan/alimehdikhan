@@ -183,16 +183,7 @@ Working on a production NestJS + TypeScript backend with PostgreSQL, contributin
 
 <br/>
 
-### Data Analyst (Freelance) — Peroptyx
 
-**Remote (via TryRating)** · *2025 – Present*
-
-Performing data rating, evaluation, and quality-assurance tasks on structured datasets for AI training pipelines.
-
-- Evaluated and rated data samples for accuracy and relevance
-- Applied structured guidelines for consistent data labeling
-
-`Data Analysis` `Quality Assurance` `Data Labeling`
 
 <br/>
 
