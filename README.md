@@ -2,17 +2,17 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:4B0082,100:8A2BE2&height=260&section=header&text=Ali%20Mehdi%20Khan&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Software%20Developer&descAlignY=55&descSize=18" width="100%"/>
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+%7C+Software+Developer;Python+%7C+FastAPI+%7C+TensorFlow%2FKeras+%7C+Java;Building+intelligent%2C+data-driven+solutions;B.Tech+CSE+%40+Babu+Banarasi+Das+University+%2726" alt="Typing SVG" />
 <br/>
-[![Academic](https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering%20(2026)-6A0DAD?style=for-the-badge)](#)
-[![Location](https://img.shields.io/badge/Location-Lucknow%2C%20India-4B0082?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+<a href="#"><img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering%20(2026)-6A0DAD?style=for-the-badge" alt="Academic"></a>
+<a href="#"><img src="https://img.shields.io/badge/Location-Lucknow%2C%20India-4B0082?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"></a>
 <br/>
-[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://alimehdikhan.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-mehdi-khan-b4062b2a3)
-[![Email](https://img.shields.io/badge/Email-4B0082?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ali973mehdi@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-9370DB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alimehdikhan)
+<a href="https://alimehdikhan.github.io/"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"></a>
+<a href="https://linkedin.com/in/ali-mehdi-khan-b4062b2a3"><img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:ali973mehdi@gmail.com"><img src="https://img.shields.io/badge/Email-4B0082?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://github.com/alimehdikhan"><img src="https://img.shields.io/badge/GitHub-9370DB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <br/>
-![Profile Views](https://komarev.com/ghpvc/?username=alimehdikhan&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/alimehdikhan?style=for-the-badge&color=6A0DAD&labelColor=4B0082&logo=github)
-![Stars](https://img.shields.io/github/stars/alimehdikhan?style=for-the-badge&color=9370DB&labelColor=4B0082&logo=github)
+<img src="https://komarev.com/ghpvc/?username=alimehdikhan&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
+<img src="https://img.shields.io/github/followers/alimehdikhan?style=for-the-badge&color=6A0DAD&labelColor=4B0082&logo=github" alt="Followers">
+<img src="https://img.shields.io/github/stars/alimehdikhan?style=for-the-badge&color=9370DB&labelColor=4B0082&logo=github" alt="Stars">
 </div>
 
 ---
