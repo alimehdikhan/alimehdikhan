@@ -5,7 +5,7 @@
 [![Academic](https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering%20(2026)-6A0DAD?style=for-the-badge)](#)
 [![Location](https://img.shields.io/badge/Location-Lucknow%2C%20India-4B0082?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 <br/>
-[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://ali-codes-connect.lovable.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://alimehdikhan.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-mehdi-khan-b4062b2a3)
 [![Email](https://img.shields.io/badge/Email-4B0082?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ali973mehdi@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-9370DB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alimehdikhan)
@@ -225,7 +225,7 @@ Built supervised and deep learning models for healthcare prediction tasks.
 <img src="https://raw.githubusercontent.com/alimehdikhan/alimehdikhan/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-> ⚠️ *Requires the [`platane/snk`](https://github.com/Platane/snk) GitHub Action configured on your profile repo to generate this animation.*
+> ⚠️ *Requires the [platane/snk](https://github.com/Platane/snk) GitHub Action configured on your profile repo to generate this animation.*
 
 ---
 
@@ -258,7 +258,7 @@ current_focus:
 [![Gmail](https://img.shields.io/badge/Gmail-4B0082?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ali973mehdi@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-mehdi-khan-b4062b2a3)
 [![GitHub](https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alimehdikhan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-9370DB?style=for-the-badge&logo=vercel&logoColor=white)](https://ali-codes-connect.lovable.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-9370DB?style=for-the-badge&logo=github&logoColor=white)](https://alimehdikhan.github.io/)
 
 </div>
 
