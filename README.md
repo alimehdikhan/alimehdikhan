@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:4B0082,100:8A2BE2&height=260&section=header&text=Ali%20Mehdi%20Khan&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Software%20Developer&descAlignY=55&descSize=18" width="100%" alt="Ali Mehdi Khan — AI/ML Engineer | Software Developer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:4B0082,100:8A2BE2&height=260&section=header&text=Ali%20Mehdi%20Khan&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Software%20Developer&descAlignY=55&descSize=18" width="100%"/>
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+%7C+Software+Developer;Python+%7C+FastAPI+%7C+TensorFlow%2FKeras+%7C+Java;Building+intelligent%2C+data-driven+solutions;B.Tech+CSE+%40+Babu+Banarasi+Das+University+%2726" alt="Typing SVG" />
 <br/>
 <a href="#"><img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering%20(2026)-6A0DAD?style=for-the-badge" alt="Academic"></a>
@@ -37,7 +37,7 @@ class AliMehdiKhan:
         ]
 ```
 
-I'm a Computer Science graduate who builds end-to-end intelligent systems — from training deep learning models to shipping them behind production-grade REST APIs. My work spans **AI/ML application development**, **backend engineering with Python**, and **real-world deployment**, with a focus on clean architecture, measurable performance, and turning data into tools people actually use.
+I'm a Computer Science graduate who builds end-to-end intelligent systems — from training deep learning models to shipping production-grade REST APIs. My work spans **AI/ML application development**, **backend engineering with Python**, and deploying real-world solutions. I care about clean architecture, measurable performance, and turning data into usable tools.
 
 <div align="center">
 
@@ -87,10 +87,10 @@ I'm a Computer Science graduate who builds end-to-end intelligent systems — fr
 
 | Domain | Proficiency | Details |
 |---|:-:|---|
-| **Natural Language Processing** | ⭐⭐⭐⭐ | Speech-to-text with OpenAI Whisper; phoneme-level pronunciation scoring and alignment |
+| **Natural Language Processing** | ⭐⭐⭐⭐ | Speech-to-text with OpenAI Whisper, phoneme-level pronunciation scoring |
 | **Deep Learning** | ⭐⭐⭐⭐ | CNN-based binary classification with Keras/TensorFlow — 90%+ accuracy on medical imaging |
 | **Audio Signal Processing** | ⭐⭐⭐ | Low-latency audio pipelines & feature extraction for real-time spoken feedback |
-| **Generative AI** | ⭐⭐⭐ | Google Cloud Vertex AI — building with Gemini & Imagen, prompt design & engineering |
+| **Generative AI** | ⭐⭐⭐ | Google Cloud Vertex AI — Gemini & Imagen, prompt engineering & design |
 | **Predictive Modeling** | ⭐⭐⭐ | Supervised ML for diabetes & skin cancer prediction with feature engineering & hyperparameter tuning |
 | **Model Deployment** | ⭐⭐⭐ | FastAPI inference endpoints, Hugging Face Spaces deployment |
 
@@ -104,7 +104,7 @@ I'm a Computer Science graduate who builds end-to-end intelligent systems — fr
 <summary><b>🗣️ AI Pronunciation Coach</b></summary>
 <br/>
 
-An AI-powered coaching platform that delivers real-time feedback on spoken English through speech recognition and phonetic analysis.
+An AI-powered pronunciation coaching platform that delivers real-time spoken English feedback using speech recognition and phonetic analysis.
 
 | | |
 |---|---|
@@ -113,7 +113,7 @@ An AI-powered coaching platform that delivers real-time feedback on spoken Engli
 | **Performance** | Low-latency transcription with phoneme-level pronunciation scoring |
 | **Repository** | [A.I-Pronunciation-Coach](https://github.com/alimehdikhan/A.I-Pronunciation-Coach) |
 
-A complete inference pipeline that transcribes spoken audio, aligns it against target phonemes, and returns granular pronunciation feedback — pairing ASR with linguistic analysis for an interactive language-learning experience.
+Built a complete inference pipeline that transcribes spoken audio, aligns it against target phonemes, and returns granular pronunciation feedback — combining ASR with linguistic analysis for an interactive language-learning experience.
 
 </details>
 
@@ -121,7 +121,7 @@ A complete inference pipeline that transcribes spoken audio, aligns it against t
 <summary><b>🩺 Cancer Detection System</b></summary>
 <br/>
 
-A deep learning system for early-stage cancer prediction, trained on real-world medical imaging datasets.
+A deep learning system for early-stage cancer prediction trained on real-world medical imaging datasets.
 
 | | |
 |---|---|
@@ -131,7 +131,7 @@ A deep learning system for early-stage cancer prediction, trained on real-world 
 | **Impact** | Demonstrates applied deep learning for healthcare diagnostics |
 | **Repository** | [Cancer-Detection-Model](https://github.com/alimehdikhan/Cancer-Detection-Model) |
 
-Designed and trained a CNN architecture, iterating on feature engineering and hyperparameter tuning to maximize diagnostic accuracy on medical imaging data.
+Designed and trained a CNN-based architecture with iterative feature engineering and hyperparameter tuning to maximize diagnostic accuracy on medical imaging data.
 
 </details>
 
@@ -146,7 +146,7 @@ Built supervised and deep learning models for healthcare prediction tasks.
 
 - Developed a **skin cancer detection** model using deep learning in Python
 - Built a **diabetes prediction** model using supervised learning techniques
-- Improved model accuracy through systematic feature engineering and hyperparameter tuning
+- Applied feature engineering and hyperparameter tuning to maximize model accuracy
 
 `Python` `TensorFlow` `Keras` `Machine Learning` `Deep Learning` `Feature Engineering`
 
@@ -159,7 +159,7 @@ Built supervised and deep learning models for healthcare prediction tasks.
 | Recognition | Details |
 |---|---|
 | 🏅 Exemplary Discipline Award | Maintained 95%+ attendance across all academic terms |
-| 🤝 Tech for Good — Volunteer | Trained 30+ underprivileged students in programming fundamentals over 3 months |
+| 🤝 Tech for Good — Volunteer | Trained 30+ underprivileged students in programming over 3 months |
 
 </div>
 
@@ -195,10 +195,10 @@ Built supervised and deep learning models for healthcare prediction tasks.
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=alimehdikhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8A2BE2&text_color=C9D1D9&ring_color=6A0DAD" width="48%" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimehdikhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="48%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=alimehdikhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8A2BE2&text_color=C9D1D9&ring_color=6A0DAD" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimehdikhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="48%"/>
 <br/>
-<img src="https://streak-stats.demolab.com?user=alimehdikhan&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=A78BFA&currStreakLabel=A78BFA" width="60%" alt="Contribution Streak"/>
+<img src="https://streak-stats.demolab.com?user=alimehdikhan&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=A78BFA&currStreakLabel=A78BFA" width="60%"/>
 </div>
 
 ---
@@ -206,7 +206,7 @@ Built supervised and deep learning models for healthcare prediction tasks.
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=alimehdikhan&theme=algolia&no-frame=true&row=1&column=6&margin-w=10&bg=0D1117" width="100%" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=alimehdikhan&theme=algolia&no-frame=true&row=1&column=6&margin-w=10&bg=0D1117" width="100%"/>
 </div>
 
 ---
@@ -214,7 +214,7 @@ Built supervised and deep learning models for healthcare prediction tasks.
 ## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alimehdikhan&theme=tokyo-night&bg_color=0D1117&color=A78BFA&line=8A2BE2&point=ffffff&hide_border=true" width="100%" alt="Contribution Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alimehdikhan&theme=tokyo-night&bg_color=0D1117&color=A78BFA&line=8A2BE2&point=ffffff&hide_border=true" width="100%"/>
 </div>
 
 ---
@@ -222,11 +222,10 @@ Built supervised and deep learning models for healthcare prediction tasks.
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/alimehdikhan/alimehdikhan/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/alimehdikhan/alimehdikhan/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-<!-- Powered by the platane/snk GitHub Action (https://github.com/Platane/snk).
-     Configure it on this profile repo to generate the animation above. -->
+> ⚠️ *Requires the [platane/snk](https://github.com/Platane/snk) GitHub Action configured on your profile repo to generate this animation.*
 
 ---
 
@@ -269,5 +268,5 @@ current_focus:
 
 *"Code with purpose, build with precision, learn relentlessly."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:4B0082,100:6A0DAD&height=120&section=footer" width="100%" alt="footer wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:4B0082,100:6A0DAD&height=120&section=footer" width="100%"/>
 </div>
