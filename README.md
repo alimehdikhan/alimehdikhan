@@ -1,75 +1,53 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:4B0082,100:8A2BE2&height=240&section=header&text=Ali%20Mehdi%20Khan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%C2%B7%20Software%20Developer&descAlignY=55&descSize=18" width="100%" alt="Ali Mehdi Khan — AI/ML Engineer & Software Developer"/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+intelligent%2C+data-driven+systems;Python+%7C+FastAPI+%7C+TensorFlow+%7C+NLP;Open+to+AI%2FML+%26+Software+Engineering+roles" alt="Typing animation"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:4B0082,100:8A2BE2&height=260&section=header&text=Ali%20Mehdi%20Khan&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Software%20Developer&descAlignY=55&descSize=18" width="100%" alt="Ali Mehdi Khan — AI/ML Engineer | Software Developer"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+%7C+Software+Developer;Python+%7C+FastAPI+%7C+TensorFlow%2FKeras+%7C+Java;Building+intelligent%2C+data-driven+solutions;B.Tech+CSE+%40+Babu+Banarasi+Das+University+%2726" alt="Typing SVG" />
 <br/>
-
-<a href="https://alimehdikhan.github.io/"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
-<a href="https://linkedin.com/in/ali-mehdi-khan-b4062b2a3"><img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:ali973mehdi@gmail.com"><img src="https://img.shields.io/badge/Email-4B0082?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/alimehdikhan"><img src="https://img.shields.io/badge/GitHub-9370DB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-
-<br/><br/>
-
-📍 <b>Lucknow, India</b> &nbsp;·&nbsp; 🎓 <b>B.Tech CSE, Babu Banarasi Das University — Class of 2026</b>
-
+<a href="#"><img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering%20(2026)-6A0DAD?style=for-the-badge" alt="Academic"></a>
+<a href="#"><img src="https://img.shields.io/badge/Location-Lucknow%2C%20India-4B0082?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"></a>
+<br/>
+<a href="https://alimehdikhan.github.io/"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"></a>
+<a href="https://linkedin.com/in/ali-mehdi-khan-b4062b2a3"><img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:ali973mehdi@gmail.com"><img src="https://img.shields.io/badge/Email-4B0082?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://github.com/alimehdikhan"><img src="https://img.shields.io/badge/GitHub-9370DB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<br/>
+<img src="https://komarev.com/ghpvc/?username=alimehdikhan&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
+<img src="https://img.shields.io/github/followers/alimehdikhan?style=for-the-badge&color=6A0DAD&labelColor=4B0082&logo=github" alt="Followers">
+<img src="https://img.shields.io/github/stars/alimehdikhan?style=for-the-badge&color=9370DB&labelColor=4B0082&logo=github" alt="Stars">
 </div>
 
 ---
 
 ## 🧠 About Me
 
-I build end-to-end intelligent systems — from training deep learning models to shipping them behind production-grade REST APIs. My work spans **NLP & speech processing**, **medical-imaging classification**, and **generative AI on Google Cloud**. I care about clean architecture, measurable performance, and turning research-grade models into tools people actually use.
-
 ```python
 class AliMehdiKhan:
-    role    = "AI/ML Engineer · Software Developer"
-    focus   = ["NLP & Speech", "Deep Learning", "Generative AI", "Model Deployment"]
-    open_to = ["AI/ML Engineering", "Software Engineering (entry-level)",
-               "Internships & full-time roles", "Open-source collaboration"]
+    def __init__(self):
+        self.role = "AI/ML Engineer & Software Developer"
+        self.location = "Lucknow, Uttar Pradesh, India"
+        self.education = "B.Tech CSE, Babu Banarasi Das University (2026)"
+        self.focus = ["Machine Learning", "Deep Learning", "NLP", "AI Application Development"]
+        self.philosophy = "Turn research-grade models into real, impactful tools"
+
+    def open_to(self):
+        return [
+            "AI/ML Engineering roles",
+            "Software Engineering roles (entry-level)",
+            "Open-source collaborations",
+            "Internships & full-time opportunities"
+        ]
 ```
 
----
+I'm a Computer Science graduate who builds end-to-end intelligent systems — from training deep learning models to shipping them behind production-grade REST APIs. My work spans **AI/ML application development**, **backend engineering with Python**, and **real-world deployment**, with a focus on clean architecture, measurable performance, and turning data into tools people actually use.
 
-## 🚀 Featured Projects
+<div align="center">
 
-### 🗣️ [AI Pronunciation Coach](https://github.com/alimehdikhan/A.I-Pronunciation-Coach)
+### 🎯 Open To
+[![AI/ML Roles](https://img.shields.io/badge/AI%2FML%20Engineering-Open-8A2BE2?style=flat-square)](#)
+[![Software Engineering](https://img.shields.io/badge/Software%20Engineering-Open-6A0DAD?style=flat-square)](#)
+[![Internships](https://img.shields.io/badge/Internships-Open-4B0082?style=flat-square)](#)
+[![Collaboration](https://img.shields.io/badge/Open%20Source%20Collaboration-Welcome-9370DB?style=flat-square)](#)
 
-Real-time spoken-English coaching that scores pronunciation at the **phoneme level**.
-
-- **Pipeline:** audio ingestion → OpenAI Whisper transcription → Epitran phoneme alignment → granular feedback, served through FastAPI
-- **Why it's interesting:** combines ASR with linguistic analysis to deliver low-latency, actionable feedback for language learners
-- **Stack:** `Python` · `FastAPI` · `OpenAI Whisper` · `Epitran`
-
-### 🩺 [Cancer Detection System](https://github.com/alimehdikhan/Cancer-Detection-Model)
-
-CNN-based binary classifier for early-stage cancer prediction on real-world medical imaging data.
-
-- **Results:** 90%+ classification accuracy through iterative feature engineering and hyperparameter tuning
-- **Why it's interesting:** applied deep learning with a measurable outcome in a high-stakes healthcare domain
-- **Stack:** `Python` · `TensorFlow` · `Keras`
-
----
-
-## 💼 Experience
-
-**Machine Learning Intern — BBD University** · Lucknow, India · *Jun 2025 – Jul 2025*
-
-- Developed a **skin cancer detection** model using deep learning and a **diabetes prediction** model using supervised learning for healthcare prediction tasks
-- Raised model accuracy through systematic feature engineering and hyperparameter tuning
-
-`Python` `TensorFlow` `Keras` `Machine Learning` `Deep Learning` `Feature Engineering`
-
----
-
-## 🤖 AI/ML Focus Areas
-
-- **NLP & Speech** — Whisper-based speech-to-text, phoneme-level pronunciation scoring, low-latency audio pipelines
-- **Deep Learning for Healthcare** — CNN classifiers for medical imaging; supervised models for disease prediction
-- **Generative AI** — prompt design and app-building with Gemini & Imagen on Google Cloud Vertex AI
-- **Model Deployment** — FastAPI inference endpoints, Hugging Face Spaces
+</div>
 
 ---
 
@@ -77,19 +55,111 @@ CNN-based binary classifier for early-stage cancer prediction on real-world medi
 
 <div align="center">
 
-**Languages & Web**
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css&theme=dark" alt="Python, Java, C, C++, JavaScript, HTML, CSS"/>
+![Skills](https://skillicons.dev/icons?i=python,java,c,cpp,js&theme=dark)
 
-**AI / ML & Backend**
+**Web**
 
-<img src="https://skillicons.dev/icons?i=tensorflow,fastapi&theme=dark" alt="TensorFlow, FastAPI"/>
+![Skills](https://skillicons.dev/icons?i=html,css&theme=dark)
 
-`Keras` · `NLP` · `REST APIs` · `SQL`
+**Backend & APIs**
+
+![Skills](https://skillicons.dev/icons?i=fastapi&theme=dark)
+`FastAPI` `REST APIs` `SQL`
+
+**AI / ML**
+
+![Skills](https://skillicons.dev/icons?i=tensorflow&theme=dark)
+`TensorFlow` `Keras` `NLP` `Machine Learning`
 
 **Cloud & Tooling**
 
-<img src="https://skillicons.dev/icons?i=gcp,git,github,vscode&theme=dark" alt="Google Cloud, Git, GitHub, VS Code"/>
+![Skills](https://skillicons.dev/icons?i=gcp,git,github,vscode&theme=dark)
+
+</div>
+
+---
+
+## 🤖 AI / ML Expertise
+
+<div align="center">
+
+| Domain | Proficiency | Details |
+|---|:-:|---|
+| **Natural Language Processing** | ⭐⭐⭐⭐ | Speech-to-text with OpenAI Whisper; phoneme-level pronunciation scoring and alignment |
+| **Deep Learning** | ⭐⭐⭐⭐ | CNN-based binary classification with Keras/TensorFlow — 90%+ accuracy on medical imaging |
+| **Audio Signal Processing** | ⭐⭐⭐ | Low-latency audio pipelines & feature extraction for real-time spoken feedback |
+| **Generative AI** | ⭐⭐⭐ | Google Cloud Vertex AI — building with Gemini & Imagen, prompt design & engineering |
+| **Predictive Modeling** | ⭐⭐⭐ | Supervised ML for diabetes & skin cancer prediction with feature engineering & hyperparameter tuning |
+| **Model Deployment** | ⭐⭐⭐ | FastAPI inference endpoints, Hugging Face Spaces deployment |
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<details open>
+<summary><b>🗣️ AI Pronunciation Coach</b></summary>
+<br/>
+
+An AI-powered coaching platform that delivers real-time feedback on spoken English through speech recognition and phonetic analysis.
+
+| | |
+|---|---|
+| **Stack** | FastAPI · OpenAI Whisper · Epitran · Python |
+| **Scale** | Real-time audio ingestion & scoring pipeline |
+| **Performance** | Low-latency transcription with phoneme-level pronunciation scoring |
+| **Repository** | [A.I-Pronunciation-Coach](https://github.com/alimehdikhan/A.I-Pronunciation-Coach) |
+
+A complete inference pipeline that transcribes spoken audio, aligns it against target phonemes, and returns granular pronunciation feedback — pairing ASR with linguistic analysis for an interactive language-learning experience.
+
+</details>
+
+<details>
+<summary><b>🩺 Cancer Detection System</b></summary>
+<br/>
+
+A deep learning system for early-stage cancer prediction, trained on real-world medical imaging datasets.
+
+| | |
+|---|---|
+| **Stack** | Python · TensorFlow · Keras |
+| **Scale** | Binary classification on real-world medical image datasets |
+| **Performance** | 90%+ classification accuracy |
+| **Impact** | Demonstrates applied deep learning for healthcare diagnostics |
+| **Repository** | [Cancer-Detection-Model](https://github.com/alimehdikhan/Cancer-Detection-Model) |
+
+Designed and trained a CNN architecture, iterating on feature engineering and hyperparameter tuning to maximize diagnostic accuracy on medical imaging data.
+
+</details>
+
+---
+
+## 💼 Experience
+
+### Machine Learning Intern — BBD University
+**Lucknow, India** · *June 2025 – July 2025*
+
+Built supervised and deep learning models for healthcare prediction tasks.
+
+- Developed a **skin cancer detection** model using deep learning in Python
+- Built a **diabetes prediction** model using supervised learning techniques
+- Improved model accuracy through systematic feature engineering and hyperparameter tuning
+
+`Python` `TensorFlow` `Keras` `Machine Learning` `Deep Learning` `Feature Engineering`
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| 🏅 Exemplary Discipline Award | Maintained 95%+ attendance across all academic terms |
+| 🤝 Tech for Good — Volunteer | Trained 30+ underprivileged students in programming fundamentals over 3 months |
 
 </div>
 
@@ -97,22 +167,15 @@ CNN-based binary classifier for early-stage cancer prediction on real-world medi
 
 ## 📜 Certifications
 
-<div align="center">
+#### ☁️ Google Cloud
+[![Vertex AI](https://img.shields.io/badge/Prompt%20Design%20in%20Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](#)
+[![Gemini & Imagen](https://img.shields.io/badge/Build%20AI%20Apps%20with%20Gemini%20%26%20Imagen-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](#)
 
-<img src="https://img.shields.io/badge/Google%20Cloud-Prompt%20Design%20in%20Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Prompt Design in Vertex AI"/>
-<img src="https://img.shields.io/badge/Google%20Cloud-Build%20AI%20Apps%20with%20Gemini%20%26%20Imagen-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Build AI Apps with Gemini & Imagen"/>
-<br/>
-<img src="https://img.shields.io/badge/Deloitte-Technology%20Job%20Simulation-86BC25?style=for-the-badge&logoColor=white" alt="Deloitte Technology Job Simulation"/>
-<img src="https://img.shields.io/badge/freeCodeCamp-Machine%20Learning%20with%20Python-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freeCodeCamp — Machine Learning with Python"/>
+#### 🟢 Deloitte
+[![Forage](https://img.shields.io/badge/Technology%20Job%20Simulation-86BC25?style=for-the-badge&logo=deloitte&logoColor=white)](#)
 
-</div>
-
----
-
-## 🤝 Volunteering & Recognition
-
-- **Tech for Good — Volunteer Instructor:** trained **30+ underprivileged students** in programming fundamentals over 3 months
-- **Exemplary Discipline Award:** recognized for consistency, with 95%+ attendance across all academic terms
+#### 🟠 freeCodeCamp
+[![ML with Python](https://img.shields.io/badge/Machine%20Learning%20with%20Python-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](#)
 
 ---
 
@@ -120,10 +183,10 @@ CNN-based binary classifier for early-stage cancer prediction on real-world medi
 
 <div align="center">
 
-<a href="https://leetcode.com/u/alimehdii/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-<a href="https://geeksforgeeks.org/user/alimehdikhan"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
-<a href="https://hackerrank.com/alimehdikhan"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
-<a href="https://codechef.com/users/alimehdikhan"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/alimehdii/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/alimehdikhan)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/alimehdikhan)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/alimehdikhan)
 
 </div>
 
@@ -132,38 +195,79 @@ CNN-based binary classifier for early-stage cancer prediction on real-world medi
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=alimehdikhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8A2BE2&text_color=C9D1D9&ring_color=6A0DAD" width="48%" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimehdikhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="48%" alt="Top languages"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=alimehdikhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8A2BE2&text_color=C9D1D9&ring_color=6A0DAD" width="48%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimehdikhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="48%" alt="Top Languages"/>
 <br/>
-
-<img src="https://streak-stats.demolab.com?user=alimehdikhan&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=A78BFA&currStreakLabel=A78BFA" width="60%" alt="Contribution streak"/>
-
+<img src="https://streak-stats.demolab.com?user=alimehdikhan&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=A78BFA&currStreakLabel=A78BFA" width="60%" alt="Contribution Streak"/>
 </div>
-
-<!--
-Contribution snake — to enable, set up the Platane/snk GitHub Action on this profile repo
-(https://github.com/Platane/snk), then uncomment the line below:
-
-<img src="https://raw.githubusercontent.com/alimehdikhan/alimehdikhan/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake"/>
--->
 
 ---
 
-## 📫 Let's Connect
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=alimehdikhan&theme=algolia&no-frame=true&row=1&column=6&margin-w=10&bg=0D1117" width="100%" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alimehdikhan&theme=tokyo-night&bg_color=0D1117&color=A78BFA&line=8A2BE2&point=ffffff&hide_border=true" width="100%" alt="Contribution Activity Graph"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/alimehdikhan/alimehdikhan/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+</div>
+
+<!-- Powered by the platane/snk GitHub Action (https://github.com/Platane/snk).
+     Configure it on this profile repo to generate the animation above. -->
+
+---
+
+## 🎯 Current Focus
+
+```yaml
+current_focus:
+  learning:
+    - Advanced NLP & Speech Processing
+    - Deep Learning Architectures
+    - Cloud AI on Google Vertex AI
+  building:
+    - AI Pronunciation Coach (ongoing improvements)
+    - Healthcare ML models
+  exploring:
+    - LLM applications & prompt engineering
+    - Generative AI with Gemini & Imagen
+  open_to:
+    - AI/ML Engineering roles
+    - Software Engineering roles (entry-level)
+    - Internships & full-time opportunities
+```
+
+---
+
+## 📫 Connect With Me
 
 <div align="center">
 
-Have a role, a project, or an idea worth building? My inbox is open.
+[![Gmail](https://img.shields.io/badge/Gmail-4B0082?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ali973mehdi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-mehdi-khan-b4062b2a3)
+[![GitHub](https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alimehdikhan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-9370DB?style=for-the-badge&logo=github&logoColor=white)](https://alimehdikhan.github.io/)
 
-<a href="mailto:ali973mehdi@gmail.com"><img src="https://img.shields.io/badge/Email-4B0082?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://linkedin.com/in/ali-mehdi-khan-b4062b2a3"><img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</div>
 
-<br/><br/>
+---
+
+<div align="center">
 
 *"Code with purpose, build with precision, learn relentlessly."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:4B0082,100:6A0DAD&height=120&section=footer" width="100%" alt="footer wave"/>
-
 </div>
