@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://imapro.in"><img src="https://img.shields.io/badge/Working%20at-imaPRO%20(Junior%20Software%20Developer)-8A2BE2?style=for-the-badge&logo=briefcase&logoColor=white" alt="Work"></a>
+<a href="https://imapro.in"><img src="https://img.shields.io/badge/Working%20at-imaPRO%20(Junior%20Software%20Developer)-8A2BE2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMCA2aC00VjRjMC0xLjExLS44OS0yLTItMmgtNGMtMS4xMSAwLTIgLjg5LTIgMnYySDRjLTEuMTEgMC0xLjk5Ljg5LTEuOTkgMkwyIDE5YzAgMS4xMS44OSAyIDIgMmgxNmMxLjExIDAgMi0uODkgMi0yVjhjMC0xLjExLS44OS0yLTItMnptLTYgMGgtNFY0aDR2MnoiLz48L3N2Zz4%3D&logoColor=white" alt="Work"></a>
 <br/>
 <img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering%20(2026)-6A0DAD?style=for-the-badge" alt="Academic">
 <img src="https://img.shields.io/badge/Location-Lucknow%2C%20India-4B0082?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
@@ -14,7 +14,7 @@
 <br/>
 
 <a href="https://alimehdikhan.github.io/"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
-<a href="https://linkedin.com/in/ali-mehdi-khan-b4062b2a3"><img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://linkedin.com/in/ali-mehdi-khan-b4062b2a3"><img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:ali973mehdi@gmail.com"><img src="https://img.shields.io/badge/Email-4B0082?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://github.com/alimehdikhan"><img src="https://img.shields.io/badge/GitHub-9370DB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
@@ -51,6 +51,12 @@ class AliMehdiKhan:
 I'm a Computer Science graduate and a Junior Software Developer at **[imaPRO](https://imapro.in)**. I build complete systems: I train deep learning models, wrap them in Python APIs, and put a working front end on top. At imaPRO I work on web apps, APIs and internal tools for real client projects. Outside work I keep building in **AI/ML**, mostly speech, NLP and healthcare models.
 
 <div align="center">
+
+### ⚡ At a Glance
+
+| 🏢 Work | 🎓 Education | 🧠 Main Focus | 📍 Based In |
+|:-:|:-:|:-:|:-:|
+| Junior Software Developer<br/>[imaPRO](https://imapro.in) | B.Tech CSE<br/>BBD University (2026) | AI/ML + Full-Stack | Lucknow, India |
 
 ### 🎯 Open To
 ![Open Source](https://img.shields.io/badge/Open%20Source%20Collaboration-Welcome-9370DB?style=flat-square)
@@ -90,7 +96,7 @@ I'm a Computer Science graduate and a Junior Software Developer at **[imaPRO](ht
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Whisper](https://img.shields.io/badge/OpenAI%20Whisper-412991?style=for-the-badge&logoColor=white)
+![Whisper](https://img.shields.io/badge/OpenAI%20Whisper-412991?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAxNGMxLjY2IDAgMy0xLjM0IDMtM1Y1YzAtMS42Ni0xLjM0LTMtMy0zUzkgMy4zNCA5IDV2NmMwIDEuNjYgMS4zNCAzIDMgM3ptNS4zLTNjMCAzLTIuNTQgNS4xLTUuMyA1LjFTNi43IDE0IDYuNyAxMUg1YzAgMy40MSAyLjcyIDYuMjMgNiA2LjcyVjIxaDJ2LTMuMjhjMy4yOC0uNDggNi0zLjMgNi02LjcyaC0xLjd6Ii8%2BPC9zdmc%2B&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -149,6 +155,14 @@ I'm a Computer Science graduate and a Junior Software Developer at **[imaPRO](ht
 <summary><b>🗣️ AI Pronunciation Coach</b></summary>
 <br/>
 
+
+<p>
+<img src="https://img.shields.io/github/stars/alimehdikhan/A.I-Pronunciation-Coach?style=flat-square&color=8A2BE2&labelColor=4B0082&logo=github" alt="Stars"/>
+<img src="https://img.shields.io/github/languages/top/alimehdikhan/A.I-Pronunciation-Coach?style=flat-square&color=8A2BE2&labelColor=4B0082" alt="Top language"/>
+<img src="https://img.shields.io/github/last-commit/alimehdikhan/A.I-Pronunciation-Coach?style=flat-square&color=8A2BE2&labelColor=4B0082" alt="Last commit"/>
+<img src="https://img.shields.io/github/repo-size/alimehdikhan/A.I-Pronunciation-Coach?style=flat-square&color=8A2BE2&labelColor=4B0082" alt="Repo size"/>
+</p>
+
 A pronunciation coaching app that listens to spoken English and gives feedback at the sound (phoneme) level.
 
 | | |
@@ -175,6 +189,14 @@ flowchart LR
 <details>
 <summary><b>🩺 Cancer Detection System</b></summary>
 <br/>
+
+
+<p>
+<img src="https://img.shields.io/github/stars/alimehdikhan/Cancer-Detection-Model?style=flat-square&color=8A2BE2&labelColor=4B0082&logo=github" alt="Stars"/>
+<img src="https://img.shields.io/github/languages/top/alimehdikhan/Cancer-Detection-Model?style=flat-square&color=8A2BE2&labelColor=4B0082" alt="Top language"/>
+<img src="https://img.shields.io/github/last-commit/alimehdikhan/Cancer-Detection-Model?style=flat-square&color=8A2BE2&labelColor=4B0082" alt="Last commit"/>
+<img src="https://img.shields.io/github/repo-size/alimehdikhan/Cancer-Detection-Model?style=flat-square&color=8A2BE2&labelColor=4B0082" alt="Repo size"/>
+</p>
 
 A deep learning model for early-stage cancer prediction, trained on real medical imaging datasets.
 
@@ -220,7 +242,7 @@ flowchart LR
 ![Gemini & Imagen](https://img.shields.io/badge/Build%20AI%20Apps%20with%20Gemini%20%26%20Imagen-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 #### 🟢 Deloitte
-![Forage](https://img.shields.io/badge/Technology%20Job%20Simulation-86BC25?style=for-the-badge&logo=deloitte&logoColor=white)
+![Forage](https://img.shields.io/badge/Technology%20Job%20Simulation-86BC25?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNyIgZmlsbD0id2hpdGUiLz48L3N2Zz4%3D&logoColor=white)
 
 #### 🟠 freeCodeCamp
 ![ML with Python](https://img.shields.io/badge/Machine%20Learning%20with%20Python-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)
@@ -298,7 +320,7 @@ current_focus:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-4B0082?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ali973mehdi@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-mehdi-khan-b4062b2a3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D&logoColor=white)](https://linkedin.com/in/ali-mehdi-khan-b4062b2a3)
 [![GitHub](https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alimehdikhan)
 [![Portfolio](https://img.shields.io/badge/Portfolio-9370DB?style=for-the-badge&logo=githubpages&logoColor=white)](https://alimehdikhan.github.io/)
 
