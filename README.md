@@ -71,79 +71,113 @@ I'm a Computer Science graduate and a Junior Software Developer at **[imaPRO](ht
 
 <div align="center">
 
-**Languages**
+### Languages
 
 <img src="https://skillicons.dev/icons?i=py,java,c,cpp,js,ts&theme=dark" alt="Languages"/>
 
-**Frontend**
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,svelte,vite,tailwind,bootstrap&theme=dark" alt="Frontend"/>
+### Frontend
 
-![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-8B5A2B?style=for-the-badge)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-111827?style=for-the-badge&logo=shadcnui&logoColor=white)
-![Radix UI](https://img.shields.io/badge/Radix%20UI-161618?style=for-the-badge&logo=radixui&logoColor=white)
-![Motion](https://img.shields.io/badge/Motion-FFCC00?style=for-the-badge)
-![GSAP](https://img.shields.io/badge/GSAP-0AE448?style=for-the-badge&logo=greensock&logoColor=111111)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![Recharts](https://img.shields.io/badge/Recharts-8884D8?style=for-the-badge)
-![Quill](https://img.shields.io/badge/Quill-06C?style=for-the-badge&logo=quill&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,svelte,vite,tailwind,bootstrap,threejs&theme=dark" alt="Frontend"/>
 
-**Backend & APIs**
+<br/><br/>
+
+<table>
+  <tr>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/reactrouter" width="40" height="40" alt="React Router"/><br/><sub><b>React Router</b></sub></td>
+    <td align="center" width="110"><img src="https://github.com/pmndrs.png?size=80" width="40" height="40" alt="Zustand"/><br/><sub><b>Zustand</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/shadcnui/000000/FFFFFF" width="40" height="40" alt="shadcn/ui"/><br/><sub><b>shadcn/ui</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/radixui/161618/FFFFFF" width="40" height="40" alt="Radix UI"/><br/><sub><b>Radix UI</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="110"><img src="https://github.com/motiondivision.png?size=80" width="40" height="40" alt="Motion"/><br/><sub><b>Motion</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/greensock" width="40" height="40" alt="GSAP"/><br/><sub><b>GSAP</b></sub></td>
+    <td align="center" width="110"><img src="https://github.com/recharts.png?size=80" width="40" height="40" alt="Recharts"/><br/><sub><b>Recharts</b></sub></td>
+    <td align="center" width="110"><img src="https://github.com/slab.png?size=80" width="40" height="40" alt="Quill"/><br/><sub><b>Quill</b></sub></td>
+  </tr>
+</table>
+
+<br/>
+
+### Backend & APIs
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,flask,prisma,postman&theme=dark" alt="Backend"/>
 
-![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge)
-![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge)
-![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+<br/><br/>
 
-**Databases**
+<table>
+  <tr>
+    <td align="center" width="110"><img src="https://github.com/typeorm.png?size=80" width="40" height="40" alt="TypeORM"/><br/><sub><b>TypeORM</b></sub></td>
+    <td align="center" width="110"><img src="https://github.com/honojs.png?size=80" width="40" height="40" alt="Hono"/><br/><sub><b>Hono</b></sub></td>
+    <td align="center" width="110"><img src="https://raw.githubusercontent.com/encode/uvicorn/master/docs/uvicorn.png" height="40" alt="Uvicorn"/><br/><sub><b>Uvicorn</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/pydantic" width="40" height="40" alt="Pydantic"/><br/><sub><b>Pydantic</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/sqlalchemy" width="40" height="40" alt="SQLAlchemy"/><br/><sub><b>SQLAlchemy</b></sub></td>
+  </tr>
+</table>
+
+<br/>
+
+### Databases
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase,supabase&theme=dark" alt="Databases"/>
 
-**AI / ML**
+<br/><br/>
+
+### AI / ML
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,anaconda&theme=dark" alt="AI ML"/>
 
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Hugging Face Spaces](https://img.shields.io/badge/Hugging%20Face%20Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Hugging Face Datasets](https://img.shields.io/badge/Hugging%20Face%20Datasets-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black)
-![Whisper](https://img.shields.io/badge/OpenAI%20Whisper-412991?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAxNGMxLjY2IDAgMy0xLjM0IDMtM1Y1YzAtMS42Ni0xLjM0LTMtMy0zUzkgMy4zNCA5IDV2NmMwIDEuNjYgMS4zNCAzIDMgM3ptNS4zLTNjMCAzLTIuNTQgNS4xLTUuMyA1LjFTNi43IDE0IDYuNyAxMUg1YzAgMy40MSAyLjcyIDYuMjMgNiA2LjcyVjIxaDJ2LTMuMjhjMy4yOC0uNDggNi0zLjMgNi02LjcyaC0xLjd6Ii8%2BPC9zdmc%2B&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
-![wav2vec%202.0](https://img.shields.io/badge/wav2vec%202.0-0467DF?style=for-the-badge)
-![ONNX Runtime](https://img.shields.io/badge/ONNX%20Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white)
-![Kokoro TTS](https://img.shields.io/badge/Kokoro%20TTS-F0ABFC?style=for-the-badge)
-![Piper TTS](https://img.shields.io/badge/Piper%20TTS-7DD3FC?style=for-the-badge)
-![NLTK / CMUDict](https://img.shields.io/badge/NLTK%20%2F%20CMUDict-2563EB?style=for-the-badge)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0EA5E9?style=for-the-badge)
-![TensorFlow Lite](https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+<br/><br/>
 
-**Cloud, DevOps & Tools**
+<table>
+  <tr>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/keras" width="40" height="40" alt="Keras"/><br/><sub><b>Keras</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/numpy/013243/4DABCF" width="40" height="40" alt="NumPy"/><br/><sub><b>NumPy</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/pandas/150458/FFFFFF" width="40" height="40" alt="Pandas"/><br/><sub><b>Pandas</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/jupyter" width="40" height="40" alt="Jupyter"/><br/><sub><b>Jupyter</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/huggingface" width="40" height="40" alt="Hugging Face"/><br/><sub><b>Hugging Face</b><br/>Spaces · Datasets</sub></td>
+    <td align="center" width="110"><img src="https://github.com/openai.png?size=80" width="40" height="40" alt="OpenAI Whisper"/><br/><sub><b>Whisper</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/googlegemini" width="40" height="40" alt="Google Gemini"/><br/><sub><b>Gemini</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/langchain/1C3C3C/FFFFFF" width="40" height="40" alt="LangChain"/><br/><sub><b>LangChain</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/streamlit" width="40" height="40" alt="Streamlit"/><br/><sub><b>Streamlit</b></sub></td>
+    <td align="center" width="110"><img src="https://github.com/groq.png?size=80" width="40" height="40" alt="Groq"/><br/><sub><b>Groq</b></sub></td>
+    <td align="center" width="110"><img src="https://github.com/facebookresearch.png?size=80" width="40" height="40" alt="wav2vec 2.0"/><br/><sub><b>wav2vec 2.0</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/onnx" width="40" height="40" alt="ONNX Runtime"/><br/><sub><b>ONNX Runtime</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="110"><img src="https://github.com/hexgrad.png?size=80" width="40" height="40" alt="Kokoro TTS"/><br/><sub><b>Kokoro TTS</b></sub></td>
+    <td align="center" width="110"><img src="https://github.com/rhasspy.png?size=80" width="40" height="40" alt="Piper TTS"/><br/><sub><b>Piper TTS</b></sub></td>
+    <td align="center" width="110"><img src="https://github.com/nltk.png?size=80" width="40" height="40" alt="NLTK"/><br/><sub><b>NLTK / CMUDict</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/ffmpeg" width="40" height="40" alt="FFmpeg"/><br/><sub><b>FFmpeg</b></sub></td>
+    <td align="center" width="110"><img src="https://github.com/google-ai-edge.png?size=80" width="40" height="40" alt="MediaPipe"/><br/><sub><b>MediaPipe</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/tensorflow" width="40" height="40" alt="TensorFlow Lite"/><br/><sub><b>TF Lite</b></sub></td>
+  </tr>
+</table>
+
+<br/>
+
+### Cloud, DevOps & Tools
 
 <img src="https://skillicons.dev/icons?i=gcp,docker,linux,vercel,githubactions,git,github,vscode,figma&theme=dark" alt="Cloud and Tools"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=bun,vitest,jest,prometheus&theme=dark" alt="Testing and Monitoring"/>
 
-![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=111111)
-![Render](https://img.shields.io/badge/Render-3E63DD?style=for-the-badge&logo=render&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-0C67E7?style=for-the-badge&logo=razorpay&logoColor=white)
-![Resend](https://img.shields.io/badge/Resend-000000?style=for-the-badge)
+<br/><br/>
+
+<table>
+  <tr>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/playwright" width="40" height="40" alt="Playwright"/><br/><sub><b>Playwright</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/ruff/261230/D7FF64" width="40" height="40" alt="Ruff"/><br/><sub><b>Ruff</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/render/000000/FFFFFF" width="40" height="40" alt="Render"/><br/><sub><b>Render</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.simpleicons.org/razorpay/0C2451/3395FF" width="40" height="40" alt="Razorpay"/><br/><sub><b>Razorpay</b></sub></td>
+    <td align="center" width="110"><img src="https://github.com/resend.png?size=80" width="40" height="40" alt="Resend"/><br/><sub><b>Resend</b></sub></td>
+  </tr>
+</table>
 
 </div>
-
 ---
 
 ## 🤖 AI / ML Expertise
