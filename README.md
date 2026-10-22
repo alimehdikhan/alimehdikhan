@@ -169,7 +169,7 @@ I'm a Computer Science graduate and a Junior Software Developer at **[imaPRO](ht
 
 <table>
   <tr>
-    <td align="center" width="110"><img src="https://cdn.simpleicons.org/playwright" width="40" height="40" alt="Playwright"/><br/><sub><b>Playwright</b></sub></td>
+    <td align="center" width="110"><img src="https://playwright.dev/img/playwright-logo.svg" width="40" height="40" alt="Playwright"/><br/><sub><b>Playwright</b></sub></td>
     <td align="center" width="110"><img src="https://cdn.simpleicons.org/ruff/261230/D7FF64" width="40" height="40" alt="Ruff"/><br/><sub><b>Ruff</b></sub></td>
     <td align="center" width="110"><img src="https://cdn.simpleicons.org/render/000000/FFFFFF" width="40" height="40" alt="Render"/><br/><sub><b>Render</b></sub></td>
     <td align="center" width="110"><img src="https://cdn.simpleicons.org/razorpay/0C2451/3395FF" width="40" height="40" alt="Razorpay"/><br/><sub><b>Razorpay</b></sub></td>
