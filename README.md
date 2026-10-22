@@ -77,15 +77,31 @@ I'm a Computer Science graduate and a Junior Software Developer at **[imaPRO](ht
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&theme=dark" alt="Frontend"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,svelte,vite,tailwind,bootstrap&theme=dark" alt="Frontend"/>
+
+![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-8B5A2B?style=for-the-badge)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-111827?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix%20UI-161618?style=for-the-badge&logo=radixui&logoColor=white)
+![Motion](https://img.shields.io/badge/Motion-FFCC00?style=for-the-badge)
+![GSAP](https://img.shields.io/badge/GSAP-0AE448?style=for-the-badge&logo=greensock&logoColor=111111)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-8884D8?style=for-the-badge)
+![Quill](https://img.shields.io/badge/Quill-06C?style=for-the-badge&logo=quill&logoColor=white)
 
 **Backend & APIs**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,postman&theme=dark" alt="Backend"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,flask,prisma,postman&theme=dark" alt="Backend"/>
+
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase&theme=dark" alt="Databases"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase,supabase&theme=dark" alt="Databases"/>
 
 **AI / ML**
 
@@ -96,14 +112,35 @@ I'm a Computer Science graduate and a Junior Software Developer at **[imaPRO](ht
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Hugging Face Spaces](https://img.shields.io/badge/Hugging%20Face%20Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Hugging Face Datasets](https://img.shields.io/badge/Hugging%20Face%20Datasets-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Whisper](https://img.shields.io/badge/OpenAI%20Whisper-412991?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAxNGMxLjY2IDAgMy0xLjM0IDMtM1Y1YzAtMS42Ni0xLjM0LTMtMy0zUzkgMy4zNCA5IDV2NmMwIDEuNjYgMS4zNCAzIDMgM3ptNS4zLTNjMCAzLTIuNTQgNS4xLTUuMyA1LjFTNi43IDE0IDYuNyAxMUg1YzAgMy40MSAyLjcyIDYuMjMgNiA2LjcyVjIxaDJ2LTMuMjhjMy4yOC0uNDggNi0zLjMgNi02LjcyaC0xLjd6Ii8%2BPC9zdmc%2B&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
+![wav2vec%202.0](https://img.shields.io/badge/wav2vec%202.0-0467DF?style=for-the-badge)
+![ONNX Runtime](https://img.shields.io/badge/ONNX%20Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+![Kokoro TTS](https://img.shields.io/badge/Kokoro%20TTS-F0ABFC?style=for-the-badge)
+![Piper TTS](https://img.shields.io/badge/Piper%20TTS-7DD3FC?style=for-the-badge)
+![NLTK / CMUDict](https://img.shields.io/badge/NLTK%20%2F%20CMUDict-2563EB?style=for-the-badge)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0EA5E9?style=for-the-badge)
+![TensorFlow Lite](https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
 **Cloud, DevOps & Tools**
 
 <img src="https://skillicons.dev/icons?i=gcp,docker,linux,vercel,githubactions,git,github,vscode,figma&theme=dark" alt="Cloud and Tools"/>
+
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=111111)
+![Render](https://img.shields.io/badge/Render-3E63DD?style=for-the-badge&logo=render&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-0C67E7?style=for-the-badge&logo=razorpay&logoColor=white)
+![Resend](https://img.shields.io/badge/Resend-000000?style=for-the-badge)
 
 </div>
 
